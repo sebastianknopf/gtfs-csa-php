@@ -2,7 +2,7 @@
     "name": "gtfs/csa-php",
     "description": "Simple routing algorithm based on CSA and GTFS",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sebastian Knopf",
